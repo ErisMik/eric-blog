@@ -1,3 +1,0 @@
-# Eric Jounral Blog
-
-
