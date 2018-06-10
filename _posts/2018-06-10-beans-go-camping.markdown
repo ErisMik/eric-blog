@@ -30,7 +30,7 @@ Deciding to go back early, we got lucky with a huge break in the rain as we pack
 On the way back we made a few stops: First was Clearwater Lake, the lake was so large and peaceful, and in the distance you could see the clouds wisping through the trees, it was magical.
 We also stopped for a short hike to a waterfall! The falls itself weren't too impressive but there was a massive amount of water pouring through! I helped Jazzy down to the viewpoint and a did my normal waterfall ritual. Afterwards, the trail to the falls left us "shook" :P 
 
-![The trail left us shook]({{ "/assets/images/2018_06_10_A.jpg" | absolute_url }})
+![The trail left us shook]({{ "/assets/images/2018_06_10_A.jpg" | relative_url }})
 
 On the way back we stopped at an adorable little German restaurant and I discovered a new love for "Currywurst", bratwurst covered in a curry ketchup! Damn good!
 
