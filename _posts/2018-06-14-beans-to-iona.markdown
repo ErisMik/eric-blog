@@ -19,5 +19,5 @@ stories of when we first met, and just about life in general. Eventually the con
 turned a lot more serious and delicate, but by then end I was more sure of my love for 
 the Smol Bean then when we started.
 
-![Cool photo effect]({{ "/assets/images/2018_06_14_A.jpg" | relative_url }})
-![Pretty Bean!]({{ "/assets/images/2018_06_14_B.jpg" | relative_url }})
+![Cool photo effect]({{ "/assets/images/2018_06_14_B.jpg" | relative_url }})
+![Pretty Bean!]({{ "/assets/images/2018_06_14_A.jpg" | relative_url }})
