@@ -17,13 +17,13 @@ title: Tall Bean Blog
 # email: ericm99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Adventures and Escapades of a smol yet tall Bean Sprout!
-baseurl: "eric-blog" # the subpath of your site, e.g. /blog
-url: "https://erismik.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/eric-blog"
+url: "https://erismik.github.io"
 github_username:  erismik
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Bean date at the beach"
 date:   2018-06-19 20:00:00 -0700
-categories: beans food
+categories: beans
 ---
 
 After dinner at Pepper Lunch we decided to hike down to the beach to watch the sunset.

@@ -1,0 +1,23 @@
+$primary-color: #c0d890;
+$accent-color: #656256;
+$light-accent-color: #f4f2f3;
+$bold-color: #c97064;
+$alt-bold-color: #bca371;
+
+%primary-color {color: $primary-color;}
+%accent-color {color: $accent-color;}
+%light-accent-color {color: $light-accent-color}
+%bold-color {color: $bold-color}
+%alt-bold-color {color: $alt-bold-color}
+
+.site-header {
+    background-color: $primary-color;
+    border-top: initial;
+    border-bottom: 5px solid $accent-color;
+}
+
+.site-footer {
+    background-color: $primary-color;
+    border-bottom: initial;
+    border-top: 5px solid $accent-color;
+}
