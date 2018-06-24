@@ -1,7 +1,7 @@
 $primary-color: #c0d890;
 $accent-color: #656256;
 $light-accent-color: #f4f2f3;
-$bold-color: #c97064;
+$bold-color: #b94f41;
 $alt-bold-color: #bca371;
 
 %primary-color {color: $primary-color;}
@@ -10,10 +10,20 @@ $alt-bold-color: #bca371;
 %bold-color {color: $bold-color}
 %alt-bold-color {color: $alt-bold-color}
 
+.page-content {
+    background-color: $light-accent-color;
+}
+
 .site-header {
     background-color: $primary-color;
     border-top: initial;
     border-bottom: 5px solid $accent-color;
+}
+
+.site-title {
+    @include relative-font-size(2);
+    font-family: 'Lobster', cursive;
+    letter-spacing: 1px;
 }
 
 .site-footer {
@@ -43,6 +53,9 @@ $alt-bold-color: #bca371;
         li:hover {
             img:nth-child(1){display: none}
             img:nth-child(2){display: inline-block}
+        }
+        a:hover {
+            color: $bold-color;
         }
     }
 }
