@@ -21,3 +21,28 @@ $alt-bold-color: #bca371;
     border-bottom: initial;
     border-top: 5px solid $accent-color;
 }
+
+.home {
+    .svg-icon-smol {
+        padding-top: 32px;
+        padding-left: 16px;
+        padding-right: 16px;
+
+        width: 32px;
+        height: 32px;
+    }
+
+    .svg-icon-tall {
+        margin-right: 10px;
+        height: 64px;
+        width: 64px;
+    }
+
+    .post-list {
+        li img:nth-child(2){display: none}
+        li:hover {
+            img:nth-child(1){display: none}
+            img:nth-child(2){display: inline-block}
+        }
+    }
+}
